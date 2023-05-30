@@ -16,3 +16,5 @@
 [Week 3 - Session2 (21/05/2023) starttime 08:00](https://www.youtube.com/watch?v=kagvuQVYnnQ&list=PLt_nrfusQeEdYto6Qh2hkD7EcCQ-7QHFk&index=6&pp=iAQB)
 
 [Week 4 - Session1 (27/05/2023) starttime 06:30](https://www.youtube.com/watch?v=Ga5q3FMwYFc&list=PLt_nrfusQeEdYto6Qh2hkD7EcCQ-7QHFk&index=7&pp=iAQB)
+
+[Week 4 - Session2 (28/05/2023) starttime 11:48](https://www.youtube.com/watch?v=80xNLst3o10&list=PLt_nrfusQeEdYto6Qh2hkD7EcCQ-7QHFk&index=8&pp=iAQB)
